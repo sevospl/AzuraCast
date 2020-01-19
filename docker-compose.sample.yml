@@ -86,7 +86,6 @@ services:
     # https://github.com/AzuraCast/AzuraCast/blob/master/SUPPORT.md#expand-the-docker-radio-station-port-range
      - '8000:8000'
      - '8005:8005'
-     - '8006:8006'
      - '8010:8010'
      - '8015:8015'
      - '8016:8016'
